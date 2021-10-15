@@ -1,0 +1,22 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Verdana, SansSerif;
+    color: #665544;
+    text-align: center;
+}
+
+#nav ,#features, .article, #footer{
+
+    background-color: #efefef;
+    margin-top: 1em;
+    padding: 1em 0em 0.5em 0em;
+}
+#features, .article{
+    height: 100px;
+}
+li{
+    display: inline;
+    padding: 5px;
+}
